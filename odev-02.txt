@@ -1,0 +1,7 @@
+﻿Aşağıdaki özelliklerde 'Çizgi2D' sınıfı tanımlayıp kullanımını bir
+örnek ile gösterin:
+- x1, y1 isimli özellikleri olacak (başlangıç noktası)
+- x2, y2 isimli özellikleri olacak (bitiş noktası)
+- Tüm özellikler nesne oluşturulurken verilmek zorunda
+- 'Uzunluk' isimli metodu çizginin uzunluğunu hesaplayıp döndürecek
+- Nesne string olarak yazdırılırsa bütün özellikleri alt alta listelemeli

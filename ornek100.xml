@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sinif>
+	<ogrenci no="331561001">
+		<adi>Ali AK</adi>
+		<vize ders="PHP">90</vize>
+		<final ders="PHP">80</final>
+	</ogrenci>
+	<ogrenci no="331561002">
+		<adi>Ayşe BAL</adi>
+		<vize ders="PHP">90</vize>
+		<final ders="PHP">80</final>
+	</ogrenci>
+	<ogrenci no="331561003">
+		<adi>Fatma ŞEN</adi>
+		<vize>90</vize>
+		<final>80</final>
+	</ogrenci>
+</sinif>

@@ -1,0 +1,18 @@
+Aşağıdaki özelliklerde 'Taşıt' sınıfı tanımlayın:
+- 'tür' özelliği 'kara, hava, deniz' değerlerinden birisi 
+	olmalı ve nesne oluşturulurken verilmeli
+- 'marka, model, yıl, yolcu_kapasitesi' özellikleri nesne oluşturulurken verilmeli
+- Nesne string olarak yazdırılırsa bütün özellikleri alt alta listelemeli
+
+Taşıt sınıftan devralan ve aşağıdaki özelliklere sahip 'Kara' sınıfını
+oluşturup kullanımını bir örnek ile gösterin:
+- 'tür' özelliği nesne oluşturulurken verilmeyecek, değeri 'kara' olmalı.
+- 'Lastik Sayısı' özelliği olacak ve nesne oluşturulurken verilmeli.
+- Nesne metin olarak yazdırılırken bütün özellikleri alt alta listelemeli.
+
+Taşıt sınıftan devralan ve aşağıdaki özelliklere sahip 'Hava' sınıfını
+oluşturup kullanımını bir örnek ile gösterin:
+- 'tür' özelliği nesne oluşturulurken verilmeyecek, değeri 'hava' olmalı.
+- 'Amaç' özelliği olacak ve nesne oluşturulurken verilmeli.
+- 'Amaç' özelliğinin değeri 'Sivil' veya 'Askeri' olabilir.
+- Nesne metin olarak yazdırılırken bütün özellikleri alt alta listelemeli.

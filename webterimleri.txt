@@ -1,0 +1,7 @@
+﻿AJAX = Asynchronous Javascript and XML
+CSS = Cascaded Style Sheets
+HTML = HyperText Markup Language
+PHP = Personel Home Page
+SQL = Structured Query Language
+JSON = JavaScript Object Notation
+JSON = JavaScript Object Notation

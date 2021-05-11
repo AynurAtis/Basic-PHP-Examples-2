@@ -1,0 +1,1 @@
+<a href="ornek80_iletisim.php">İletişim</a>

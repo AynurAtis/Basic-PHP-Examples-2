@@ -1,0 +1,11 @@
+﻿Aşağıdaki özelliklerde 'Çokgen' sınıfı tanımlayıp kullanımını bir
+örnek ile gösterin:
+- Belirsiz sayıda noktadan oluşacak
+- Her bir nokta 'Nokta2D' sınıfından olacak
+- Noktaların değeri çokgen nesnesi oluşturulurken verilmeli (sayısı belli değil)
+  (Nesne oluşturulurken verilen değer sayısının yarısı kadar nokta var demektir.
+  Çünkü her nokta x ve y diye iki değerden oluşur.
+  Örneğin: 6 değer verilirse üçgen demektir)
+- 'Çevre' isimli metodu çokgenin çevresini hesaplayıp döndürecek
+  (çevre bütün çizgi uzunluklarının toplamıdır)
+- Nesne string olarak yazdırılırsa bütün özellikleri alt alta listelemeli
